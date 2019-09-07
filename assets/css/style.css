@@ -107,3 +107,33 @@ h3 {
     font-size: 14px;
     position: absolute;
 }
+#image1 {
+    position: absolute;
+    top: 84px;
+    left: 20px;
+}
+#image2 {
+    position: absolute;
+    top: 84px;
+    left: 350px;
+}
+#image3 {
+    position: absolute;
+    top: 315px;
+    left: 20px;
+}
+#image4 {
+    position: absolute;
+    top: 315px;
+    left:350px;
+}
+#image5 {
+    position: absolute;
+    top: 546px;
+    left: 20px;
+}
+#image6 {
+    position: absolute;
+    top: 546px;
+    left: 350px;
+}
